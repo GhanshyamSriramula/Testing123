@@ -1,1 +1,2 @@
 Story 1 file
+2nd line added in story text file
